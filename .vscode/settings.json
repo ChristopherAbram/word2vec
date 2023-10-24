@@ -1,0 +1,12 @@
+{
+  "python.formatting.provider": "none",
+  "python.linting.mypyArgs": [
+    "--config-file=${workspaceFolder}/.mypy.ini"
+  ],
+  "[python]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "autoDocstring.guessTypes": false,
+  "autoDocstring.docstringFormat": "sphinx"
+}

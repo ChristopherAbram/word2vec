@@ -1,0 +1,16 @@
+numpy==1.24.0
+torch==2.1.0               # https://pytorch.org/get-started/previous-versions/
+torchmetrics==1.2.0        # https://lightning.ai/docs/pytorch/stable/versioning.html#compatibility-matrix
+torchtext==0.16.0          # https://pypi.org/project/torchtext/
+torchdata==0.7.0           # https://pypi.org/project/torchdata/
+lightning==2.1.0           # https://lightning.ai/docs/pytorch/stable/versioning.html
+tensorboard==2.14.0
+six==1.16.0
+portalocker==2.8.2
+
+matplotlib==3.7.3
+scikit-learn==1.3.1
+
+plotly-express==0.4.1
+nbformat==5.9.2
+ipykernel==6.25.2

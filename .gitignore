@@ -1,0 +1,6 @@
+.data/*
+.model/*
+.venv/*
+.out/*
+tensorboard_logs/*
+**/__pycache__
